@@ -1,3 +1,5 @@
+<img src="Snowflake_Logo.svg" width="200">
+
 # Cognite-Snowflake Partnership Meeting Analysis
 
 ## Meeting Overview
